@@ -1,0 +1,34 @@
+.green {
+	position: relative;
+	width: 200px;
+	height: 200px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: green;
+}
+
+.blue {
+	width: 400px;
+	height: 300px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: blue;
+}
+
+.red {
+	position: relative;
+	width: 600px;
+	height: 400px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: red;
+}
+
+.text {
+	position: absolute;
+	top: 10px;
+	left: 10px;
+}
